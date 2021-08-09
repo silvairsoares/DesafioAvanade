@@ -21,7 +21,6 @@ namespace ConsoleApp1
                 return;
             }
 
-            //complete o código com sua solução
             Console.WriteLine("Informe um número, para que o programa escreva de 1 até este número 'Y': ");
             y = long.Parse(Console.ReadLine());
 
